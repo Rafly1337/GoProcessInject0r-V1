@@ -1,4 +1,4 @@
-# GoProcessInject0r
+# GoProcessInject0r-V1
 Proof of concept for single/multiple shellcode process injection malware in Go language.
 
 Contains two programs:
